@@ -1,7 +1,7 @@
-# Timbre-Disentangled Fair Singing (TDFS) — Official Implementation
+# Timbre-Decoupled Fair Singing (TDFS) — Official Implementation
 
 Official Python implementation for the paper:
-**"Decoupling Timbre: Fair Singing Voice Detection via Latent Disentanglement"**
+**"Decoupling Timbre: Fair Singing Voice Detection via Adversarial Bias Suppression"**
 *IEEE Signal Processing Letters*
 
 The TDFS architecture employs an adversarial Gradient Reversal Layer (GRL) with
