@@ -102,7 +102,7 @@ tdfs/
 
 ### AudioSet (PANNs Baseline Only)
 - PANNs CNN14 checkpoint pretrained on AudioSet (Kong et al., 2020)
-- Downloaded from Zenodo record 3987831
+- URL: https://zenodo.org/records/3987831
 - AudioSet "Singing" class index: **27**
 
 ---
