@@ -93,7 +93,7 @@ tdfs/
 
 ### MUSDB18 (Zero-Shot Evaluation)
 - **Source:** MUSDB18 multitrack corpus (Rafii et al., 2017)
-- **URL:** https://sigsep.github.io/datasets/musdb18.html
+- **URL:** https://sigsep.github.io/datasets/musdb.html
 - **Size used:** 150 tracks → 300 balanced segments (150 vocal mixture, 150 instrumental)
 - **Vocal label:** RMS energy threshold on isolated vocal stem (> 0.005)
 - **Timbre label:** Spectral centroid of instrumental stem; median split at 1800 Hz (75 soft, 75 powerful negatives)
