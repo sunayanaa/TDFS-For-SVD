@@ -74,8 +74,7 @@ tdfs/
 ├── spl04_panns_baseline.py      # Phase 6d: PANNs CNN14 zero-shot SOTA baseline
 │
 └── # ── UTILITIES ───────────────────────────────────────────────
-    ├── jamendo_metadata_parser.py   # Jamendo metadata parsing utility
-    └── extractComments.py           # Repository documentation utility
+    └── jamendo_metadata_parser.py   # Jamendo metadata parsing utility
 ```
 
 ---
